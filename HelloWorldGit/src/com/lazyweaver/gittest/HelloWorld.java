@@ -5,9 +5,9 @@ package com.lazyweaver.gittest;
  * 
  * @author Branko (Nov 17, 2016)
  *
- *         <br>
- *         <b>History:</b> <br>
- *         Nov 17, 2016 Branko created <br>
+ * <br>
+ * <b>History:</b> <br>
+ * Nov 17, 2016 Branko created <br>
  */
 public class HelloWorld {
 
