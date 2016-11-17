@@ -12,6 +12,7 @@ package com.lazyweaver.gittest;
 public class HelloWorld {
 
 	public static void main(String[] args) {
+		// from master
 		System.out.println("Hello, Git World");
 	}
 }
