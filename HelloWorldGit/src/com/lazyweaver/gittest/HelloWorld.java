@@ -12,6 +12,7 @@ package com.lazyweaver.gittest;
 public class HelloWorld {
 
 	public static void main(String[] args) {
+		//updated from features
 		System.out.println("Hello, Git World");
 	}
 }
